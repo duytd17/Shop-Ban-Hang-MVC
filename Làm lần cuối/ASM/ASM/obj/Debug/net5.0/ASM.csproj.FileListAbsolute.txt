@@ -1,0 +1,1530 @@
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\appsettings.Development.json
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\appsettings.json
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.exe
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.deps.json
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.runtimeconfig.json
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.runtimeconfig.dev.json
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ref\ASM.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.pdb
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.Views.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.Views.pdb
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Humanizer.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.csproj.AssemblyReference.cache
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.GeneratedMSBuildEditorConfig.editorconfig
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.AssemblyInfoInputs.cache
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.AssemblyInfo.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.csproj.CoreCompileInputs.cache
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.MvcApplicationPartsAssemblyInfo.cache
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorAssemblyInfo.cache
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorAssemblyInfo.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\staticwebassets\ASM.StaticWebAssets.Manifest.cache
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\staticwebassets\ASM.StaticWebAssets.xml
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\scopedcss\bundle\ASM.styles.css
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.TagHelpers.input.cache
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.TagHelpers.output.cache
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorCoreGenerate.cache
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorTargetAssemblyInfo.cache
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorTargetAssemblyInfo.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.Views.pdb
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.csproj.CopyComplete
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.dll
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ref\ASM.dll
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.pdb
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.genruntimeconfig.cache
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_SideNavPartialView.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\mscorlib.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\netstandard.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.AppContext.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Buffers.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Configuration.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Console.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Core.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Data.Common.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Data.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Drawing.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Globalization.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Compression.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Linq.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Memory.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Http.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Mail.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Ping.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Requests.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Security.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Numerics.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ObjectModel.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Claims.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Principal.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Json.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Transactions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ValueTuple.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Web.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Windows.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\WindowsBase.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.MvcApplicationPartsAssemblyInfo.cs
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.StaticWebAssets.xml
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.Views.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\PagedList.Core.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\PagedList.Core.Mvc.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Create.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Delete.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Details.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Edit.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Index.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\_FooterPartialView.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\_HeaderPartialView.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Create.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Delete.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Details.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Edit.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Index.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Create.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Delete.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Details.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Edit.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Index.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Create.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Delete.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Details.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Edit.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Index.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Create.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Delete.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Details.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Edit.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Index.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Create.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Delete.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Details.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Edit.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Index.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Create.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Delete.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Details.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Edit.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Index.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Search\ListProductsSearchPartial.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Create.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Delete.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Details.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Edit.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Index.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Blog\Details.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Page\Details.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\_ListProductPartialView.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\DangkyTaiKhoan.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\Login.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\Dashboard.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\_ChangePasswordPartialView.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\_DonhangPartialView.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\Components\HeaderCart\Default.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\Components\NumberCart\Default.cshtml.g.cs
+F:\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\appsettings.json
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.StaticWebAssets.xml
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.exe
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.deps.json
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.runtimeconfig.json
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.runtimeconfig.dev.json
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.pdb
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.Views.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.Views.pdb
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Humanizer.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\PagedList.Core.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\PagedList.Core.Mvc.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.csproj.AssemblyReference.cache
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.AssemblyInfoInputs.cache
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.AssemblyInfo.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.csproj.CoreCompileInputs.cache
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorAssemblyInfo.cache
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorAssemblyInfo.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\scopedcss\bundle\ASM.styles.css
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\staticwebassets\ASM.StaticWebAssets.Manifest.cache
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\staticwebassets\ASM.StaticWebAssets.xml
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.TagHelpers.input.cache
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.TagHelpers.output.cache
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorCoreGenerate.cache
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Search\ListProductsSearchPartial.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_SideNavPartialView.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\DangkyTaiKhoan.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\Dashboard.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\Login.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\_ChangePasswordPartialView.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\_DonhangPartialView.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\_ListProductPartialView.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Page\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\Components\HeaderCart\Default.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\Components\NumberCart\Default.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\_FooterPartialView.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\_HeaderPartialView.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorTargetAssemblyInfo.cache
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorTargetAssemblyInfo.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.Views.pdb
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.csproj.CopyComplete
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.pdb
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.genruntimeconfig.cache
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ref\ASM.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Checkout\Success.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\DonHang\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ref\ASM.dll
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\ChangeStatus.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminHome\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Account\AdminLogin.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\SearchProducts\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\appsettings.json
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.StaticWebAssets.xml
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.exe
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.deps.json
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.runtimeconfig.json
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.runtimeconfig.dev.json
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ref\ASM.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.pdb
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.Views.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ASM.Views.pdb
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Humanizer.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\PagedList.Core.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\PagedList.Core.Mvc.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.csproj.AssemblyReference.cache
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.AssemblyInfoInputs.cache
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.AssemblyInfo.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.csproj.CoreCompileInputs.cache
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorAssemblyInfo.cache
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorAssemblyInfo.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\staticwebassets\ASM.StaticWebAssets.Manifest.cache
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\staticwebassets\ASM.StaticWebAssets.xml
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\scopedcss\bundle\ASM.styles.css
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.TagHelpers.input.cache
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.TagHelpers.output.cache
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorCoreGenerate.cache
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Account\AdminLogin.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminAccounts\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCategories\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminCustomers\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminHome\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\ChangeStatus.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminOrders\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPages\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminPosts\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminProducts\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Create.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Delete.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Edit.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\AdminRoles\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Search\ListProductsSearchPartial.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_SideNavPartialView.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\DangkyTaiKhoan.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\Dashboard.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\Login.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\_ChangePasswordPartialView.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Accounts\_DonhangPartialView.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Checkout\Success.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\DonHang\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Home\_ListProductPartialView.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Page\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\Components\HeaderCart\Default.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\Components\NumberCart\Default.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\_FooterPartialView.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\_HeaderPartialView.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorTargetAssemblyInfo.cache
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.RazorTargetAssemblyInfo.cs
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.Views.pdb
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.csproj.CopyComplete
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ref\ASM.dll
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.pdb
+C:\Users\trand\OneDrive\Máy tính\C#\Ngày 10-4-2023\Làm lần cuối\ASM\ASM\obj\Debug\net5.0\ASM.genruntimeconfig.cache
